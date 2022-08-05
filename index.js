@@ -6,3 +6,8 @@ function stuff() {
 function doStuff() {
     console.log("Dat Ass")
 }
+
+function tooCool() {
+
+    console.log("Es tetas")
+}
